@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me 
-- ➡LinkedIn- https://www.linkedin.com/in/arjun-arjun-a4948b17a
+- ➡LinkedIn- https://www.linkedin.com/in/arjun-arjun
 - ➡Email- arjun872587@gmail.com
 
 <!---
